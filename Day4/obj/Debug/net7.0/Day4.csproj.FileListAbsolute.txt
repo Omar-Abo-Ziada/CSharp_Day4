@@ -1,0 +1,15 @@
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\bin\Debug\net7.0\Day4.exe
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\bin\Debug\net7.0\Day4.deps.json
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\bin\Debug\net7.0\Day4.runtimeconfig.json
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\bin\Debug\net7.0\Day4.dll
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\bin\Debug\net7.0\Day4.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.csproj.AssemblyReference.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.AssemblyInfoInputs.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.AssemblyInfo.cs
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.dll
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\refint\Day4.dll
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\Day4.genruntimeconfig.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day4\Day4\obj\Debug\net7.0\ref\Day4.dll
